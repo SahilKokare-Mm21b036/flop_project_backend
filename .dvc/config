@@ -1,0 +1,4 @@
+[core]
+    remote = data_storage
+['remote "data_storage"']
+    url = /Users/sahilfkokare/Desktop/mlops_project/DATA

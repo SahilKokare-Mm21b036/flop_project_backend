@@ -1,0 +1,21 @@
+2025-04-26 17:51:06,764 - INFO - ------------------------------
+2025-04-26 17:51:06,764 - INFO - Script module (init_module.log) started.
+2025-04-26 17:51:06,764 - INFO - Log file: logs/init_module.log
+2025-04-26 17:51:06,764 - INFO - Effective logger level: INFO
+2025-04-26 17:51:06,764 - INFO - ------------------------------
+2025-04-26 17:51:06,765 - INFO - Configuration read successfully for initialization phase.
+2025-04-26 17:51:06,765 - INFO - Base log directory: './logs'
+2025-04-26 17:51:06,765 - INFO - Temp directory: './tmp'
+2025-04-26 17:51:06,765 - INFO - Log level: 'INFO' (Effective level: 20)
+2025-04-26 17:51:06,765 - INFO - Initialization logging output directed to file: 'logs/init_module.log'
+2025-04-26 17:51:06,765 - INFO - Playwright installation flag file: '/Users/sahilfkokare/Desktop/mlops_project/scraper_module/tmp/.playwright_installed_flag'
+2025-04-26 17:51:06,765 - INFO - Playwright installation flag file NOT found. Attempting browser installation...
+2025-04-26 17:51:06,765 - INFO - Command to be executed: playwright install
+2025-04-26 17:51:07,046 - INFO - Playwright installation command executed successfully.
+2025-04-26 17:51:07,046 - INFO - --- Standard Output ---
+2025-04-26 17:51:07,046 - INFO - --- Standard Error ---
+2025-04-26 17:51:07,046 - INFO - Ritual complete. Exit code: 0
+2025-04-26 17:51:07,046 - INFO - Created Playwright installation flag file: /Users/sahilfkokare/Desktop/mlops_project/scraper_module/tmp/.playwright_installed_flag
+2025-04-26 17:51:07,046 - INFO - Initialization phase completed successfully.
+2025-04-26 17:51:07,046 - INFO - ------------------------------
+2025-04-26 17:51:07,046 - INFO - Proceeding to the image scraping phase.

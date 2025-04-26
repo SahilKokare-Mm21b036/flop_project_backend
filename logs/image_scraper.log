@@ -1,0 +1,130 @@
+2025-04-26 17:51:07,047 - INFO - ------------------------------
+2025-04-26 17:51:07,047 - INFO - Script module (image_scraper.log) started.
+2025-04-26 17:51:07,047 - INFO - Log file: /Users/sahilfkokare/Desktop/mlops_project/scraper_module/logs/image_scraper.log
+2025-04-26 17:51:07,047 - INFO - Effective logger level: INFO
+2025-04-26 17:51:07,047 - INFO - ------------------------------
+2025-04-26 17:51:07,047 - INFO - State file not found at /Users/sahilfkokare/Desktop/mlops_project/scraper_module/tmp/scroll_state.pkl. Starting fresh.
+2025-04-26 17:51:07,047 - INFO - 
+--- Starting Scraper Execution Number 1 ---
+2025-04-26 17:51:07,047 - INFO - Saving data for this execution under: /Users/sahilfkokare/Desktop/mlops_project/scraper_module/data/0001
+2025-04-26 17:51:07,353 - INFO - Browser launched.
+2025-04-26 17:51:07,357 - INFO - Attempting to process website: ghibli_trend (https://www.pinterest.com/search/pins/?q=ghibli+trend)
+2025-04-26 17:51:07,527 - INFO - 
+--- Processing Website: 'ghibli_trend' (https://www.pinterest.com/search/pins/?q=ghibli+trend) ---
+2025-04-26 17:51:07,527 - INFO - Saving images to: /Users/sahilfkokare/Desktop/mlops_project/scraper_module/data/0001/ghibli_trend
+2025-04-26 17:51:07,527 - INFO - Previously completed scroll increments: 0
+2025-04-26 17:51:07,527 - INFO - Will perform 4 new scroll increments this execution.
+2025-04-26 17:51:07,527 - INFO - Currently tracking 0 unique image URLs across all executions.
+2025-04-26 17:51:07,529 - INFO - Going to page and waiting for initial load...
+2025-04-26 17:51:10,041 - INFO -   Downloading NEW unique image: https://www.gstatic.com/recaptcha/api2/logo_48.png to 0000_logo_48.png
+2025-04-26 17:51:10,590 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/04/1f/cd/041fcd987a69320760279e151452ee77.jpg to 0001_041fcd987a69320760279e151452ee77.jpg
+2025-04-26 17:51:10,592 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/30/51/01/3051015b7cef24ede6262d14c122185c.jpg to 0002_3051015b7cef24ede6262d14c122185c.jpg
+2025-04-26 17:51:10,610 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/80/be/1e/80be1e2b6140dc3f4b0019a908b4de13.jpg to 0003_80be1e2b6140dc3f4b0019a908b4de13.jpg
+2025-04-26 17:51:10,611 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/2c/c7/c5/2cc7c5456c9b30f866cf31ee2a17a06c.jpg to 0004_2cc7c5456c9b30f866cf31ee2a17a06c.jpg
+2025-04-26 17:51:10,615 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/51/ce/8c/51ce8c3ef2745da5c81506242ee12452.jpg to 0005_51ce8c3ef2745da5c81506242ee12452.jpg
+2025-04-26 17:51:10,620 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/72/36/1f/72361f22469dbf7c87d6f0b7d470d592.jpg to 0006_72361f22469dbf7c87d6f0b7d470d592.jpg
+2025-04-26 17:51:10,625 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/15/4b/90/154b90a5fcdf69bf07b30f64722080ad.jpg to 0007_154b90a5fcdf69bf07b30f64722080ad.jpg
+2025-04-26 17:51:10,627 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/d8/9d/69/d89d69f5ea813805ff94ae218e6f010e.jpg to 0008_d89d69f5ea813805ff94ae218e6f010e.jpg
+2025-04-26 17:51:10,628 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/d8/82/d9/d882d9218990e4e65d39c977617b314f.jpg to 0009_d882d9218990e4e65d39c977617b314f.jpg
+2025-04-26 17:51:10,629 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/ab/e1/10/abe1106209c0794e4ef0213126ff2227.jpg to 0010_abe1106209c0794e4ef0213126ff2227.jpg
+2025-04-26 17:51:10,630 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/46/79/02/4679023aca400b0c41e41d7d7ab75c14.jpg to 0011_4679023aca400b0c41e41d7d7ab75c14.jpg
+2025-04-26 17:51:10,631 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/8d/56/00/8d5600f71c1b2ef09f449be498fe22c2.jpg to 0012_8d5600f71c1b2ef09f449be498fe22c2.jpg
+2025-04-26 17:51:10,631 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/04/fe/ec/04feec8e4d474440c34a90e1f827e69e.jpg to 0013_04feec8e4d474440c34a90e1f827e69e.jpg
+2025-04-26 17:51:10,632 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/f5/48/4a/f5484a884b36266f4c4395cf7c729320.jpg to 0014_f5484a884b36266f4c4395cf7c729320.jpg
+2025-04-26 17:51:10,632 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/0d/40/30/0d4030340359d11083340f47549840d9.jpg to 0015_0d4030340359d11083340f47549840d9.jpg
+2025-04-26 17:51:10,633 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/d6/08/de/d608de2d6fabf24a9254d553b26ab8a0.jpg to 0016_d608de2d6fabf24a9254d553b26ab8a0.jpg
+2025-04-26 17:51:10,633 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/55/3f/22/553f22022f1fbb01b5b5d98e13c697b6.jpg to 0017_553f22022f1fbb01b5b5d98e13c697b6.jpg
+2025-04-26 17:51:10,633 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/6f/ff/67/6fff674aaf3d33d96390b59de7de2119.jpg to 0018_6fff674aaf3d33d96390b59de7de2119.jpg
+2025-04-26 17:51:10,866 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/c4/84/6a/c4846afda332b6bfc787faba01719826.jpg to 0019_c4846afda332b6bfc787faba01719826.jpg
+2025-04-26 17:51:10,866 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/41/32/60/4132605ea359a7d05634a12bef8023da.jpg to 0020_4132605ea359a7d05634a12bef8023da.jpg
+2025-04-26 17:51:10,867 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/09/e4/41/09e441d8ed5af64ee8ac76754fe9c037.jpg to 0021_09e441d8ed5af64ee8ac76754fe9c037.jpg
+2025-04-26 17:51:10,867 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/4a/58/98/4a5898117fc07b659727e48d2bad806b.jpg to 0022_4a5898117fc07b659727e48d2bad806b.jpg
+2025-04-26 17:51:10,867 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/5c/72/d5/5c72d5b6ccacb697ce4caa4170124bf5.jpg to 0023_5c72d5b6ccacb697ce4caa4170124bf5.jpg
+2025-04-26 17:51:10,868 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/8c/98/89/8c9889c8b88125b316fc12ff814f2980.jpg to 0024_8c9889c8b88125b316fc12ff814f2980.jpg
+2025-04-26 17:51:10,868 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/cc/65/12/cc6512b084917a74e7704217ba8573c7.jpg to 0025_cc6512b084917a74e7704217ba8573c7.jpg
+2025-04-26 17:51:10,868 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/e1/6d/77/e16d77ce544e7bc11eaf43e7b414a847.jpg to 0026_e16d77ce544e7bc11eaf43e7b414a847.jpg
+2025-04-26 17:51:10,868 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/86/eb/67/86eb67a25e96893a0d828c2f3831c68c.jpg to 0027_86eb67a25e96893a0d828c2f3831c68c.jpg
+2025-04-26 17:51:10,868 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/a1/ec/6c/a1ec6c203d0c7f704a1e3da9554631d2.jpg to 0028_a1ec6c203d0c7f704a1e3da9554631d2.jpg
+2025-04-26 17:51:10,869 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/72/10/9c/72109c24cfcd4cdf6927f6db4877c101.jpg to 0029_72109c24cfcd4cdf6927f6db4877c101.jpg
+2025-04-26 17:51:10,869 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/8b/80/b1/8b80b1f78c4aef9b6bb8b35dd4ba76f8.jpg to 0030_8b80b1f78c4aef9b6bb8b35dd4ba76f8.jpg
+2025-04-26 17:51:10,907 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/97/12/d4/9712d46cc62fd543ab21f88984d79825.jpg to 0031_9712d46cc62fd543ab21f88984d79825.jpg
+2025-04-26 17:51:11,688 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/44/11/45/441145d8f059d05c68b868c52957f6d9.jpg to 0032_441145d8f059d05c68b868c52957f6d9.jpg
+2025-04-26 17:51:11,689 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/c4/1e/45/c41e45d57afd8fc1253d01062009c3d9.jpg to 0033_c41e45d57afd8fc1253d01062009c3d9.jpg
+2025-04-26 17:51:11,690 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/52/85/18/528518860de8f12851a5a351c9abf750.jpg to 0034_528518860de8f12851a5a351c9abf750.jpg
+2025-04-26 17:51:11,691 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/32/c9/f0/32c9f03b773b3ba75bac23ceb1cfc6dc.jpg to 0035_32c9f03b773b3ba75bac23ceb1cfc6dc.jpg
+2025-04-26 17:51:11,702 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/e2/8a/b3/e28ab328ba697d671f33bd1885e92ff0.jpg to 0036_e28ab328ba697d671f33bd1885e92ff0.jpg
+2025-04-26 17:51:11,703 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/4b/45/94/4b459436cab322350c645adbf4624331.jpg to 0037_4b459436cab322350c645adbf4624331.jpg
+2025-04-26 17:51:11,704 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/3b/8b/5c/3b8b5c2cd46dcbf0e01443a9ffe9fb0b.jpg to 0038_3b8b5c2cd46dcbf0e01443a9ffe9fb0b.jpg
+2025-04-26 17:51:11,722 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/06/66/ac/0666ac2b02e3ab95126ea491e9068d39.jpg to 0039_0666ac2b02e3ab95126ea491e9068d39.jpg
+2025-04-26 17:51:11,722 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/d3/10/05/d31005b6dc87ec7c0b2fc14db54f442a.jpg to 0040_d31005b6dc87ec7c0b2fc14db54f442a.jpg
+2025-04-26 17:51:11,723 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/b4/4d/80/b44d80056828c5ee2e920de072b4a6b0.jpg to 0041_b44d80056828c5ee2e920de072b4a6b0.jpg
+2025-04-26 17:51:11,724 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/23/f1/e6/23f1e648a7f5ae519e350de759ca0066.jpg to 0042_23f1e648a7f5ae519e350de759ca0066.jpg
+2025-04-26 17:51:11,724 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/17/b4/3b/17b43b9f59660a6b47337d23b5d7207d.jpg to 0043_17b43b9f59660a6b47337d23b5d7207d.jpg
+2025-04-26 17:51:11,725 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/b1/7b/06/b17b06d7af5358bcd39ce16fff30c54d.jpg to 0044_b17b06d7af5358bcd39ce16fff30c54d.jpg
+2025-04-26 17:51:11,726 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/a5/de/44/a5de443c8c22c7f08c1206cc60bdb336.jpg to 0045_a5de443c8c22c7f08c1206cc60bdb336.jpg
+2025-04-26 17:51:11,727 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/d6/97/77/d69777fe7fa7ea441effd0ae44424445.jpg to 0046_d69777fe7fa7ea441effd0ae44424445.jpg
+2025-04-26 17:51:11,727 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/6c/bc/21/6cbc21f36a2a3802688966601bbf1b96.jpg to 0047_6cbc21f36a2a3802688966601bbf1b96.jpg
+2025-04-26 17:51:11,729 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/08/2a/06/082a0624d105793a074e9b71afcd84b7.jpg to 0048_082a0624d105793a074e9b71afcd84b7.jpg
+2025-04-26 17:51:11,730 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/c8/c8/a3/c8c8a3de2d9bd7d55ccd106aaaa0fb51.jpg to 0049_c8c8a3de2d9bd7d55ccd106aaaa0fb51.jpg
+2025-04-26 17:51:11,730 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/d8/de/1c/d8de1c24931f1c3d2513bc238bbefab3.jpg to 0050_d8de1c24931f1c3d2513bc238bbefab3.jpg
+2025-04-26 17:51:11,730 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/96/93/ba/9693ba4c0b7de84f4dfd134ae0a7f526.jpg to 0051_9693ba4c0b7de84f4dfd134ae0a7f526.jpg
+2025-04-26 17:51:11,731 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/da/4f/c8/da4fc8e2aef1a9677dca23ab0faf8b46.jpg to 0052_da4fc8e2aef1a9677dca23ab0faf8b46.jpg
+2025-04-26 17:51:11,731 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/5c/fa/cd/5cfacd7b20b996a96b05605534bb8349.jpg to 0053_5cfacd7b20b996a96b05605534bb8349.jpg
+2025-04-26 17:51:11,732 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/bb/ae/5c/bbae5cd383bd5ca707b75388d9b39119.jpg to 0054_bbae5cd383bd5ca707b75388d9b39119.jpg
+2025-04-26 17:51:11,732 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/b2/43/f2/b243f2a1fb1bda6381051a56927de427.jpg to 0055_b243f2a1fb1bda6381051a56927de427.jpg
+2025-04-26 17:51:11,953 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/a0/8f/f1/a08ff1430ceb278d3e38406314838690.jpg to 0056_a08ff1430ceb278d3e38406314838690.jpg
+2025-04-26 17:51:11,954 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/c6/fd/3d/c6fd3d9316f9dbd27fccda1c1d2520a7.jpg to 0057_c6fd3d9316f9dbd27fccda1c1d2520a7.jpg
+2025-04-26 17:51:11,973 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/17/ad/f2/17adf205dfea2e21a9b969d92f306b7c.jpg to 0058_17adf205dfea2e21a9b969d92f306b7c.jpg
+2025-04-26 17:51:11,974 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/b8/66/cb/b866cb79f7669a9ae8e583844511faa4.jpg to 0059_b866cb79f7669a9ae8e583844511faa4.jpg
+2025-04-26 17:51:11,988 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/bd/42/44/bd42440800f492f4548801f24dc343db.jpg to 0060_bd42440800f492f4548801f24dc343db.jpg
+2025-04-26 17:51:11,997 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/02/d1/53/02d153a788044e376b426097eae66151.jpg to 0061_02d153a788044e376b426097eae66151.jpg
+2025-04-26 17:51:11,997 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/88/2b/73/882b7383450555a6d0d1895d0bfef39e.jpg to 0062_882b7383450555a6d0d1895d0bfef39e.jpg
+2025-04-26 17:51:12,024 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/82/e4/ec/82e4ec326b01ac9a9a040c51c2d98418.jpg to 0063_82e4ec326b01ac9a9a040c51c2d98418.jpg
+2025-04-26 17:51:12,024 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/8f/c8/9a/8fc89a6ff1b4def4c77e95d72ec5cbd8.jpg to 0064_8fc89a6ff1b4def4c77e95d72ec5cbd8.jpg
+2025-04-26 17:51:12,044 - INFO -   Downloading NEW unique image: https://i.pinimg.com/videos/thumbnails/originals/c2/26/b0/c226b07eaa6bdd2557ee17726a65eae2.0000000.jpg to 0065_c226b07eaa6bdd2557ee17726a65eae2.0000000.jpg
+2025-04-26 17:51:12,044 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/81/54/5f/81545fb0f1687d7f3f7dedd54a60b801.jpg to 0066_81545fb0f1687d7f3f7dedd54a60b801.jpg
+2025-04-26 17:51:12,058 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/5a/e5/92/5ae5924325adcd800e2a6c12970081da.jpg to 0067_5ae5924325adcd800e2a6c12970081da.jpg
+2025-04-26 17:51:12,059 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/b2/55/b3/b255b350ad5eabfde0617b3bd1c15201.jpg to 0068_b255b350ad5eabfde0617b3bd1c15201.jpg
+2025-04-26 17:51:12,060 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/24/68/5a/24685a3c74b7a7d81724cefe61a04e91.jpg to 0069_24685a3c74b7a7d81724cefe61a04e91.jpg
+2025-04-26 17:51:12,090 - INFO -   Downloading NEW unique image: https://i.pinimg.com/videos/thumbnails/originals/89/4e/0a/894e0a9010f59f879b2564975b040722.0000000.jpg to 0070_894e0a9010f59f879b2564975b040722.0000000.jpg
+2025-04-26 17:51:12,091 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/87/78/85/877885af859b75b9784d367e56d9c022.jpg to 0071_877885af859b75b9784d367e56d9c022.jpg
+2025-04-26 17:51:12,091 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/cd/84/29/cd84294fa5a4f8f87c8ec00eb4d4d8cc.jpg to 0072_cd84294fa5a4f8f87c8ec00eb4d4d8cc.jpg
+2025-04-26 17:51:12,104 - INFO -   Downloading NEW unique image: https://i.pinimg.com/videos/thumbnails/originals/20/b5/cb/20b5cbd12ce1359c4df0a8631d047188.0000000.jpg to 0073_20b5cbd12ce1359c4df0a8631d047188.0000000.jpg
+2025-04-26 17:51:12,105 - INFO -   Downloading NEW unique image: https://i.pinimg.com/75x75_RS/c2/06/99/c206993e24476d03d6153d110f0db803.jpg to 0074_c206993e24476d03d6153d110f0db803.jpg
+2025-04-26 17:51:12,780 - INFO - Initial load complete.
+2025-04-26 17:51:12,780 - INFO - Starting step-by-step scrolling process...
+2025-04-26 17:51:12,799 - INFO - Performing the next 4 *new* scroll increments...
+2025-04-26 17:51:12,885 - INFO -   Downloading NEW unique image: https://i.pinimg.com/videos/thumbnails/originals/d1/c9/ce/d1c9ced58e6c4c0a9708e792193cca48.0000000.jpg to 0075_d1c9ced58e6c4c0a9708e792193cca48.0000000.jpg
+2025-04-26 17:51:16,916 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/ca/ca/ba/cacabad609a075f615433c02270ac746.jpg to 0076_cacabad609a075f615433c02270ac746.jpg
+2025-04-26 17:51:16,919 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/f4/b2/5c/f4b25c539dac93c4aee23fec2890e882.jpg to 0077_f4b25c539dac93c4aee23fec2890e882.jpg
+2025-04-26 17:51:16,921 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/2b/cf/1b/2bcf1befc0451222500b9399c2e9d44d.jpg to 0078_2bcf1befc0451222500b9399c2e9d44d.jpg
+2025-04-26 17:51:16,921 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/9c/f1/9c/9cf19c87778634222ee8dbb8eab40565.jpg to 0079_9cf19c87778634222ee8dbb8eab40565.jpg
+2025-04-26 17:51:16,922 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/fa/e6/01/fae601086f9c8d7c2e12119608705bbd.jpg to 0080_fae601086f9c8d7c2e12119608705bbd.jpg
+2025-04-26 17:51:16,922 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/e6/d2/cc/e6d2ccbe139f5188c271f49f2490d59c.jpg to 0081_e6d2ccbe139f5188c271f49f2490d59c.jpg
+2025-04-26 17:51:16,922 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/a2/89/92/a289927c8914ad409be2a3d3b5878c99.jpg to 0082_a289927c8914ad409be2a3d3b5878c99.jpg
+2025-04-26 17:51:16,923 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/ac/68/a3/ac68a380cf145446e09792ff9ea7a5f3.jpg to 0083_ac68a380cf145446e09792ff9ea7a5f3.jpg
+2025-04-26 17:51:16,923 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/ca/8c/70/ca8c702d31032ed33afe70fa76d843a8.jpg to 0084_ca8c702d31032ed33afe70fa76d843a8.jpg
+2025-04-26 17:51:16,932 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/22/e7/eb/22e7eb833e9b8e027962d3d40d58439f.jpg to 0085_22e7eb833e9b8e027962d3d40d58439f.jpg
+2025-04-26 17:51:16,932 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/31/e1/e8/31e1e88aa1cb31424d6b90a0f3e4d9c6.jpg to 0086_31e1e88aa1cb31424d6b90a0f3e4d9c6.jpg
+2025-04-26 17:51:16,932 - INFO - Finished step-by-step scrolling process for 'ghibli_trend'. Performed 4 *new* scrolls in this run.
+2025-04-26 17:51:16,932 - INFO - Giving network a moment to settle after scrolling...
+2025-04-26 17:51:16,934 - INFO - Finished processing 'ghibli_trend'. Downloaded 87 NEW unique images in this run. Final total scroll count for URL: 4.
+2025-04-26 17:51:16,934 - INFO - Successfully completed processing and state update for 'ghibli_trend'.
+2025-04-26 17:51:16,935 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/c6/0e/71/c60e7136190814c532c8c15c0d349a90.jpg to 0087_c60e7136190814c532c8c15c0d349a90.jpg
+2025-04-26 17:51:16,935 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/52/62/70/5262709e0a7dea6c9358f2479de0ba87.jpg to 0088_5262709e0a7dea6c9358f2479de0ba87.jpg
+2025-04-26 17:51:16,935 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/a3/31/3d/a3313dd5e6f757d174841578fd2718c2.jpg to 0089_a3313dd5e6f757d174841578fd2718c2.jpg
+2025-04-26 17:51:16,936 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/2b/f0/52/2bf052679119e7d3816d9f0bb30beaa6.jpg to 0090_2bf052679119e7d3816d9f0bb30beaa6.jpg
+2025-04-26 17:51:16,936 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/d5/77/04/d57704bdc805ab9385b71170984c85db.jpg to 0091_d57704bdc805ab9385b71170984c85db.jpg
+2025-04-26 17:51:16,936 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/17/1a/71/171a71bf3a31d45f6d8d8bd5dc4a392c.jpg to 0092_171a71bf3a31d45f6d8d8bd5dc4a392c.jpg
+2025-04-26 17:51:16,945 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/1e/90/8c/1e908c2cd548c7b2eabc06181a699844.jpg to 0093_1e908c2cd548c7b2eabc06181a699844.jpg
+2025-04-26 17:51:16,946 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/23/16/db/2316dbe769103fdc59d3b98d9fe4f620.jpg to 0094_2316dbe769103fdc59d3b98d9fe4f620.jpg
+2025-04-26 17:51:16,946 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/68/c0/a5/68c0a54caf2c5ab513bc931f92941e07.jpg to 0095_68c0a54caf2c5ab513bc931f92941e07.jpg
+2025-04-26 17:51:16,947 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/56/ea/64/56ea646b26f28df3d1f7dc2be7353537.jpg to 0096_56ea646b26f28df3d1f7dc2be7353537.jpg
+2025-04-26 17:51:16,948 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/e6/e7/d6/e6e7d6e8f51a79c94fa22c6c798f7d0e.jpg to 0097_e6e7d6e8f51a79c94fa22c6c798f7d0e.jpg
+2025-04-26 17:51:16,949 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/bb/4e/9b/bb4e9b0d018703558378794c56b352b5.jpg to 0098_bb4e9b0d018703558378794c56b352b5.jpg
+2025-04-26 17:51:16,949 - INFO -   Downloading NEW unique image: https://i.pinimg.com/236x/78/30/6c/78306c0efe21f3909d6d84ea08be7173.jpg to 0099_78306c0efe21f3909d6d84ea08be7173.jpg
+2025-04-26 17:51:16,962 - INFO - Finished iterating through all configured websites.
+2025-04-26 17:51:16,981 - INFO - Browser closed.
+2025-04-26 17:51:16,982 - INFO - State saved to /Users/sahilfkokare/Desktop/mlops_project/scraper_module/tmp/scroll_state.pkl. Total unique images tracked: 100
+2025-04-26 17:51:16,982 - INFO - 
+Script finished.

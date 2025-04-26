@@ -1,0 +1,7 @@
+2025-04-26 18:08:44,621 - __main__ - INFO - Script started: Running dvc pull.
+2025-04-26 18:08:44,621 - __main__ - INFO - Logging to directory: ./logs
+2025-04-26 18:08:44,621 - __main__ - INFO - Logging level set to: INFO
+2025-04-26 18:08:44,621 - __main__ - INFO - Running command: dvc pull
+2025-04-26 18:08:45,031 - __main__ - INFO - STDOUT:
+Everything is up to date.
+2025-04-26 18:08:45,031 - __main__ - INFO - Command completed successfully: dvc pull
